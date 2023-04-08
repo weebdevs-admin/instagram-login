@@ -13,12 +13,12 @@
 body{
 	background: #fafafa;
 	font-size: 14px;
+	height: 100vh;
 }
 
 .wrapper .header{
 	max-width: 350px;
 	width: 100%;
-	height: auto;
 	margin: 50px auto;
 }
 
@@ -139,16 +139,6 @@ body{
 	margin: 0 5px;
 }
 
-.footer{
-	max-width: 935px;
-	width: 100%;
-	margin: 0 auto;
-	padding: 40px 0;
-	display: flex;
-	justify-content: space-between;
-}
 
 
-.footer .copyright{
-	color: #999;	
-}
+
